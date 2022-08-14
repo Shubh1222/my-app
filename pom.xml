@@ -19,6 +19,7 @@
     <maven.compiler.target>1.7</maven.compiler.target>
     <sonar.organization>devops-ke</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    <sonar.login>fbe1857ff6e0125b54ce392822077d2c70ae1edd</sonar.login>
   </properties>
 
   <dependencies>
