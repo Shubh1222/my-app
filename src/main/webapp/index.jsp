@@ -1,6 +1,7 @@
 <html>
 <body>
-<h1>Hello World New Version Release</h1>
-<h2>Jenkins-->Maven-->Ansible-->Docker CI/CD</h2>
+<h1>***DevOps Project CI/CD***</h1>
+ 
+<h1>|=Git==>Jenkins==>Maven==>Ansible==>DockerHub==>Docker=|</h1>
 </body>
 </html>
